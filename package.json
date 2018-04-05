@@ -1,0 +1,24 @@
+{
+  "name": "mermaid-docs-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node watcher.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howdy39/mermaid-docs-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howdy39/mermaid-docs-starter/issues"
+  },
+  "homepage": "https://github.com/howdy39/mermaid-docs-starter#readme",
+  "devDependencies": {
+    "chokidar": "^2.0.3",
+    "mermaid.cli": "^0.4.4"
+  }
+}
